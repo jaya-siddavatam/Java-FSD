@@ -1,1 +1,3 @@
 this a sample file to demonstrate git commands
+
+i am jaya bharath reddy
